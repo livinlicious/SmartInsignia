@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: SmartInsignia
+## Notes: Automatically manages your PvP insignia and normal trinket.
+## Author: Livin
+## SavedVariables: SmartInsigniaDB
+SmartInsignia.lua
